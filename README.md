@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Control and Automation Engineering, back-end developer**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at (coming soon)
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on (coming soon)
 
 - 💬 Ask me about **physics, math, chemistry, automation, solutions with programming etc...**
 
 - 📫 How to reach me **dhsilva.prado@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences (coming soon)
 
 - ⚡ Fun fact **I set up my first database at 5 years old**
 
