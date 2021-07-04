@@ -1,5 +1,5 @@
 <h1 align="center">Hi (☞ﾟヮﾟ)☞, I'm Daniel Henrique Prado e Silva</h1>
-<h3 align="center">A passionate control and Automation Engineer Student from Brazil</h3>
+<h3 align="center">A passionate Control and Automation Engineer student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhpradoesilva&label=Profile%20views&color=f00a38&style=flat" alt="dhpradoesilva" /> </p>
 
@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Control and Automation Engineering, back-end developer**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on [coming soon]
 
 - 💬 Ask me about **physics, math, chemistry, automation, solutions with programming etc...**
 
 - 📫 How to reach me **dhsilva.prado@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences [coming soon]
 
-- ⚡ Fun fact **I set up my first database at 5 years old**
+- ⚡ Fun fact **I set up my first mySQL database at 5 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
