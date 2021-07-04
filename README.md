@@ -68,7 +68,7 @@ h2 align="center">Helloooooo!</h1>
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/ralf-prezia-6a38181a3/" img> 
+   <a class="url" href="https://www.linkedin.com/in/daniel-prado-25285b173/" img> 
 
     Linkedin
 
@@ -78,7 +78,7 @@ h2 align="center">Helloooooo!</h1>
 
   <li align="center">
 
-   <a class="url" href="https://api.whatsapp.com/send?phone=5535992446440/" img> 
+   <a class="url" href="https://api.whatsapp.com/send?phone=5519991306976/" img> 
 
     Whatsapp
 
@@ -152,7 +152,6 @@ h2 align="center">Helloooooo!</h1>
 
   
 
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
 
 
 
