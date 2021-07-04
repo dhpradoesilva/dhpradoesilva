@@ -1,5 +1,5 @@
 <h1 align="center">Hi (☞ﾟヮﾟ)☞, I'm Daniel Henrique Prado e Silva</h1>
-<h3 align="center">A passionate backend developer from Brazil </h3>
+<h3 align="center">A passionate control and automation engineering student </h3>
 
 - 🔭 I’m currently working on [Santander bootcamp](https://web.digitalinnovation.one/track/santander-fullstack-developer)
 
