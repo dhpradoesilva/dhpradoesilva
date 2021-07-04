@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences (coming soon)
 
-- ⚡ Fun fact **I set up my first database at 5 years old**
+- ⚡ Fun fact **I set up my first MySQL database at 5 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
