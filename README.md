@@ -2,7 +2,7 @@ h2 align="center">Helloooooo!</h1>
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
-<h3 align="center">Front-end Developer Jr</h3>
+<h3 align="center">back-end Developer Jr</h3>
 
 
 
@@ -32,7 +32,7 @@ h2 align="center">Helloooooo!</h1>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
+
 
   
 
@@ -50,7 +50,7 @@ h2 align="center">Helloooooo!</h1>
 
   
 
-- 📫 How to reach me **ralfprezia@gmail.com**
+- 📫 How to reach me **dhsilva.prado@gmail.com**
 
   
 
